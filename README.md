@@ -5,7 +5,7 @@ Write a bedtime story about a bat who is afraid of dark for children aged 5 to 7
 
 ## ALOGORITHM:
 
-STEP-1: 
+STEP-1: gfgjhbjbj
 
 STEP-2:
 STEP-3:
