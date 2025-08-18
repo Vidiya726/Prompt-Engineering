@@ -77,6 +77,7 @@ Lyra hugged Pip gently. She knew this secret room and her new friend were just t
 
 Every day after school, Lyra and Pip would explore new wonders, always remembering that the greatest discoveries often hide in the most unexpected places.
 ## OUTPUT:
+https://github.com/Vidiya726/Prompt-Engineering/blob/main/downloadnn_compressed.pdf
 
 ## RESULT :
 Lyra, a young inventor, discovers a secret room and a broken machine in her attic. By fixing the machine, she brings a tiny robot named Pip to life, and they begin a magical journey of exploration together.
